@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar Upadhyay</h1>
 <h3 align="center">A passionate full stack developer from india</h3>
 
-- 🌱 I’m currently learning **Django,Vue.js**
-
-- 💬 Ask me about **C++,python, Node,React.js**
+- 💬 Ask me about **C++,python, Node,React.js,Django**
 
 - 📫 How to reach me **tushar.912u@gmail.com**
 
