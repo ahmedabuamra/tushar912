@@ -10,5 +10,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar912&show_icons=true" alt="tushar912" /></p>
 
 <p align="center">
-<a href="https://linkedin.com/in/tushar upadhyay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tushar upadhyay" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/tushar-upadhyay-21875a189/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tushar upadhyay" height="30" width="30" /></a>
 </p>
